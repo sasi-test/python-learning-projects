@@ -1,0 +1,101 @@
+Test_ID	Module_Name	Test_Name	Execution_Type	Status	Execution_Time	Tester_ID
+TC001	Authentication	Login Validation	Automated	Pass	1.2s	TS01
+TC002	Checkout	Cart Total Calculation	Automated	Fail	3.5s	TS02
+TC003	Settings	Password Reset	Manual	Pass	0.8s	TS01
+TC004	Dashboard	Widget Load Time	Automated	Pass	2.1s	TS03
+TC005	Profile	Avatar Upload	Manual	Fail	4.2s	TS02
+TC006	Search	Keyword Query Filter	Automated	Pass	1.5s	TS01
+TC007	Billing	Credit Card Validation	Automated	Pass	1.9s	TS03
+TC008	Authentication	OAuth Google Sign-In	Automated	Fail	5.0s	TS02
+TC009	Reports	Export PDF Summary	Manual	Pass	3.1s	TS01
+TC010	Settings	Notification Toggles	Manual	Pass	0.5s	TS03
+TC011	Checkout	Apply Discount Code	Automated	Pass	2.3s	TS02
+TC012	Dashboard	Real-time Chart Refresh	Automated	Fail	6.1s	TS01
+TC013	Profile	Email Update Verification	Manual	Pass	1.1s	TS03
+TC014	Search	Pagination Limits	Automated	Pass	1.4s	TS02
+TC015	Billing	Invoice Download	Manual	Pass	2.8s	TS01
+TC016	Authentication	Session Timeout Check	Automated	Pass	10.0s	TS03
+TC017	Settings	Language Preference	Manual	Pass	0.7s	TS02
+TC018	Checkout	Shipping Rate Calculation	Automated	Fail	3.8s	TS01
+TC019	Reports	Date Range Filter	Manual	Pass	2.0s	TS03
+TC020	Dashboard	User Activity Feed	Automated	Pass	1.6s	TS02
+TC021	Authentication	Multi-Factor Auth (MFA)	Automated	Pass	2.4s	TS01
+TC022	Checkout	Guest Checkout Flow	Automated	Fail	4.5s	TS03
+TC023	Settings	Theme Toggle Dark Mode	Manual	Pass	0.4s	TS02
+TC024	Search	Empty State Handling	Automated	Pass	0.9s	TS01
+TC025	Profile	Delete Account Request	Manual	Pass	1.8s	TS03
+TC026	Billing	Subscription Renewal	Automated	Pass	3.2s	TS02
+TC027	Authentication	Password Complexity Check	Automated	Pass	1.0s	TS01
+TC028	Dashboard	Export CSV Metrics	Manual	Fail	5.5s	TS03
+TC029	Settings	Timezone Configuration	Manual	Pass	0.6s	TS01
+TC030	Checkout	Inventory Stock Check	Automated	Pass	1.7s	TS02
+TC031	Reports	Custom Metric Builder	Manual	Fail	4.1s	TS03
+TC032	Search	Special Character Query	Automated	Pass	1.3s	TS01
+TC033	Billing	Refund Processing	Manual	Pass	3.0s	TS02
+TC034	Authentication	Account Lockout Threshold	Automated	Pass	2.2s	TS03
+TC035	Profile	Phone Number Validation	Manual	Pass	1.2s	TS01
+TC036	Dashboard	Widget Reordering Drag	Automated	Fail	3.9s	TS02
+TC037	Settings	API Key Regeneration	Manual	Pass	1.5s	TS03
+TC038	Checkout	Tax Calculation API	Automated	Pass	2.6s	TS01
+TC039	Reports	Scheduled Report Email	Automated	Pass	4.0s	TS02
+TC040	Search	Fuzzy Search Accuracy	Automated	Pass	2.9s	TS03
+TC041	Authentication	Single Sign-On (SSO)	Automated	Fail	6.2s	TS01
+TC042	Billing	Payment Gateway Timeout	Automated	Fail	8.5s	TS02
+TC043	Settings	Two-Factor Setup	Manual	Pass	2.1s	TS03
+TC044	Dashboard	Notification Badge Count	Automated	Pass	0.8s	TS01
+TC045	Profile	Bio Character Limit	Manual	Pass	0.9s	TS02
+TC046	Checkout	Currency Conversion	Automated	Pass	1.8s	TS03
+TC047	Reports	PDF Watermark Check	Manual	Pass	3.4s	TS01
+TC048	Search	Recent Search History	Automated	Pass	1.1s	TS02
+TC049	Authentication	Remember Me Token	Automated	Pass	1.4s	TS03
+TC050	Settings	Privacy Policy Link	Manual	Pass	0.3s	TS01
+TC051	Dashboard	Performance Metric Graph	Automated	Pass	2.5s	TS02
+TC052	Checkout	Gift Card Redemption	Automated	Fail	3.7s	TS03
+TC053	Profile	Profile Picture Crop	Manual	Fail	4.8s	TS01
+TC054	Search	Sorting by Date	Automated	Pass	1.6s	TS02
+TC055	Billing	Billing Address Update	Manual	Pass	1.9s	TS03
+TC056	Authentication	Password Reset Link Expiry	Automated	Pass	2.0s	TS01
+TC057	Settings	Email Alert Preferences	Manual	Pass	0.7s	TS02
+TC058	Checkout	Order Confirmation Page	Automated	Pass	1.3s	TS03
+TC059	Reports	Export Excel Sheet	Manual	Pass	3.0s	TS01
+TC060	Dashboard	Interactive Tooltips	Automated	Pass	0.9s	TS02
+TC061	Search	AutoComplete Dropdown	Automated	Pass	1.0s	TS03
+TC062	Billing	Failed Payment Retry	Automated	Fail	5.2s	TS01
+TC063	Settings	Connected Accounts Sync	Manual	Pass	2.4s	TS02
+TC064	Authentication	Captcha Verification	Automated	Pass	3.1s	TS03
+TC065	Profile	Change Password Flow	Manual	Pass	1.5s	TS01
+TC066	Checkout	Address Auto-Complete	Automated	Fail	4.1s	TS02
+TC067	Reports	Chart Legend Toggle	Manual	Pass	1.2s	TS03
+TC068	Dashboard	Full Screen Mode Toggle	Automated	Pass	0.6s	TS01
+TC069	Search	Filter by Category	Automated	Pass	1.7s	TS02
+TC070	Billing	Tax Exemption ID Check	Manual	Pass	2.2s	TS03
+TC071	Authentication	Social Login (Apple ID)	Automated	Fail	4.9s	TS01
+TC072	Settings	Data Export Request	Manual	Pass	5.0s	TS02
+TC073	Checkout	Shipping Method Selection	Automated	Pass	1.8s	TS03
+TC074	Reports	Data Grid Pagination	Manual	Pass	1.4s	TS01
+TC075	Dashboard	Widget Customization Save	Automated	Pass	2.0s	TS02
+TC076	Search	Search Suggestion Click	Automated	Pass	1.1s	TS03
+TC077	Billing	Invoice PDF Layout	Manual	Fail	3.3s	TS01
+TC078	Authentication	Session Expiry Warning	Automated	Pass	15.0s	TS02
+TC079	Settings	Active Sessions View	Manual	Pass	1.6s	TS03
+TC080	Checkout	Promo Code Expiry Check	Automated	Pass	1.2s	TS01
+TC081	Reports	Filter by Status	Manual	Pass	1.5s	TS02
+TC082	Dashboard	Drill-down Chart View	Automated	Fail	4.3s	TS03
+TC083	Search	Highlight Matched Terms	Automated	Pass	1.3s	TS01
+TC084	Billing	Receipt Email Delivery	Automated	Pass	2.8s	TS02
+TC085	Authentication	Invalid Username Handling	Automated	Pass	0.9s	TS03
+TC086	Profile	Social Links Update	Manual	Pass	1.0s	TS01
+TC087	Checkout	Cart Item Removal	Automated	Pass	1.1s	TS02
+TC088	Reports	Dashboard PDF Print	Manual	Fail	6.0s	TS03
+TC089	Settings	Account Deactivation	Manual	Pass	2.3s	TS01
+TC090	Dashboard	Error State Handling	Automated	Pass	1.4s	TS02
+TC091	Search	Filter by Price Range	Automated	Pass	1.8s	TS03
+TC092	Billing	Payment Method Deletion	Manual	Pass	1.2s	TS01
+TC093	Authentication	Role-Based Access Control	Automated	Pass	2.5s	TS02
+TC094	Profile	Language Setting Sync	Manual	Pass	0.8s	TS03
+TC095	Checkout	Zero-Value Order Handling	Automated	Pass	1.0s	TS01
+TC096	Reports	Custom Report Saving	Manual	Pass	3.6s	TS02
+TC097	Dashboard	Real-Time Alert Banner	Automated	Fail	3.2s	TS03
+TC098	Search	Zero Results Recommendation	Automated	Pass	1.5s	TS01
+TC099	Billing	Currency Switcher Update	Manual	Pass	1.1s	TS02
+TC100	Authentication	Logout Session Termination	Automated	Pass	0.9s	TS03ou
