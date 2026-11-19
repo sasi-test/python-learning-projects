@@ -1,4 +1,0 @@
-﻿Test_ID,Component,Result
-TC001,Login,Pass
-TC002,Cart,Fail
-TC003,Payment,Pass

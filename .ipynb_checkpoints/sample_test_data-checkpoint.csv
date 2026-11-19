@@ -1,4 +1,0 @@
-Test_Name,Status,Execution_Time
-Login Validation,Pass,1.2s
-Checkout Flow,Fail,3.5s
-Password Reset,Pass,0.8s
